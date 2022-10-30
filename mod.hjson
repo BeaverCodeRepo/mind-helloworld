@@ -1,0 +1,10 @@
+{
+    name: "start-with-poly"
+    displayName: "Start game with Poly"
+    author: PeppaNL
+    description: "Allows you to start off a campaign sector with Poly(s)"
+    version: "1.0"
+    minGameVersion: "139"
+    dependencies: [ ]
+    hidden: false
+}
